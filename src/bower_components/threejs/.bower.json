@@ -1,0 +1,13 @@
+{
+  "name": "threejs",
+  "_cacheHeaders": {
+    "ETag": "\"bd820fe87c97fe389b224e2655f8e3c6718c7d17\"",
+    "Content-Length": "430630",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:bd820fe87",
+  "main": "index.js",
+  "_source": "https://raw.githubusercontent.com/mrdoob/three.js/master/build/three.min.js",
+  "_target": "*",
+  "_originalSource": "https://raw.githubusercontent.com/mrdoob/three.js/master/build/three.min.js"
+}

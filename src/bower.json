@@ -1,0 +1,25 @@
+{
+  "name": "Exp_ThreeJS",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mmansion/Exp_ThreeJS",
+  "authors": [
+    "mmansion <mikhail@tellart.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "threejs": "https://raw.githubusercontent.com/mrdoob/three.js/master/build/three.min.js",
+    "jquery": "~2.1.4",
+    "threejs-trackball-controls": "*",
+    "stats.js": "*",
+    "dat.gui": "*",
+    "THREEOrbitControls": "~71.1.0",
+    "three.js-controls": "~0.0.67"
+  }
+}

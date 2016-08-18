@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bezier Curve</title>
+  <script>APP = {};</script>
+  <script type="text/javascript" src="../bower_components/threejs/index.js"></script>
+  <script type="text/javascript" src="../bower_components/jquery/dist/jquery.js"></script>
+  <script type="text/javascript" src="../bower_components/stats.js/build/stats.min.js"></script>
+  <script type="text/javascript" src="../bower_components/dat.gui/dat.gui.js"></script>
+  <script type="text/javascript" src="../bower_components/threejs-trackball-controls/TrackballControls.js"></script>
+  <script type="text/javascript" src="script.js"></script>
+  <style>
+      body {
+        /* set margin to 0 and overflow to hidden, to go fullscreen */
+        margin: 0;
+        overflow: hidden;
+      }
+  </style>
+</head>
+<body>
+<div id="Stats-output"></div>
+<div id="WebGL-output"></div>
+<script>
+APP.setup();
+APP.loop();
+</script>
+</body>
+</html>
