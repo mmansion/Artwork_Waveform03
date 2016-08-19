@@ -20,6 +20,7 @@
     "stats.js": "*",
     "dat.gui": "*",
     "THREEOrbitControls": "~71.1.0",
-    "three.js-controls": "~0.0.67"
+    "three.js-controls": "~0.0.67",
+    "webgl-detect": "*"
   }
 }
