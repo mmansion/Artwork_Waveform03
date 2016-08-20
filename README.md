@@ -1,1 +1,3 @@
-# Waveform No.3
+# Kinetic Particle System
+
+(waveform series)
